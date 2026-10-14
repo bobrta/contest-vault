@@ -1,0 +1,17 @@
+# macOS and Windows temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and temporary files
+.vscode/
+.idea/
+*.swp
+*.swo
+~$*
+*.tmp
+
+# Local credentials
+.env
+.env.*
+!.env.example
